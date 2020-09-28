@@ -16,7 +16,7 @@
   That is why CUPP was born, and it can be used in situations like legal
   penetration tests or forensic crime investigations.
 
-Quick start
+Installation:
 -----------
 
 git clone http://www.github.com/TechnicalHeadquarter/cupp
